@@ -4,7 +4,6 @@
 * Spring Boot
 * Spring Data JPA
 * Lombok
-* WebFlux
 * Mysql
 * Swagger
 * Maven
@@ -16,7 +15,7 @@
 
 Foi utilizado a arquitetura de microsserviços utilizando banco de dados MySQL
 
-REST - Esta aplicação disponibiliza um serviço REST para disponibilizar recursos de uma API de cadastro de campanhas. Consome e responde no formato JSON.
+REST - Esta aplicação disponibiliza um serviço REST para disponibilizar recursos de uma API de campanhas. Consome e responde no formato JSON.
 
 ## Documentação
 
